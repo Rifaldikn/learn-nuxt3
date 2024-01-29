@@ -12,6 +12,10 @@
   "devDependencies": {
     "nuxt": "^3.9.3",
     "vue": "^3.4.14",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "@nuxt/ui": "npm:@nuxt/ui-edge@latest"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^2.12.3"
   }
 }
